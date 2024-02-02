@@ -6,7 +6,7 @@ This script is designed for Grand Theft Auto V (GTA V) and changes AI vehicle nu
 
 ## Features
 
-- Randomly generates number plates for non-emergency vehicles.
+- Randomly generates number plates for non-emergency vehicles British style.
 - Sets specific number plates for emergency vehicles, starting with "OU".
 - If year is 2024 and month is March then 24 is added! or if month is August then sets to 74 (Same will be for 2025)
 
